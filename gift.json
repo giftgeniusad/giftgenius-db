@@ -1,0 +1,3689 @@
+[
+  {
+    "id": "arte-001",
+    "name": "Set acquerelli professionali",
+    "description": "Cofanetto con 24 colori ad alta pigmentazione, pennelli e carta per acquerello. Ideale per principianti e appassionati.",
+    "emoji": "🎨",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "set acquerelli professionali cofanetto",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "arte-002",
+    "name": "Sketchbook premium A4",
+    "description": "Taccuino da disegno con 200 pagine di carta spessa acid-free, copertina in pelle vegana.",
+    "emoji": "✏️",
+    "priceLabel": "€15–25",
+    "priceMin": 15,
+    "priceMax": 25,
+    "amazonQuery": "sketchbook premium carta spessa disegno",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte",
+      "lettura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "arte-003",
+    "name": "Set brush pen calligrafia",
+    "description": "Kit di 20 pennarelli brush per calligrafia e lettering con guida pratica inclusa.",
+    "emoji": "🖊️",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "set brush pen calligrafia lettering",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte",
+      "lettura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "arte-004",
+    "name": "Stampante portatile per foto",
+    "description": "Mini stampante tascabile per foto da smartphone via Bluetooth, senza inchiostro (tecnologia ZINK). Include 20 fogli.",
+    "emoji": "📸",
+    "priceLabel": "€55–80",
+    "priceMin": 55,
+    "priceMax": 80,
+    "amazonQuery": "stampante portatile foto smartphone bluetooth",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "arte-005",
+    "name": "Tavola luminosa per disegno",
+    "description": "Light pad A4 ultrasottile con luminosità regolabile, ideale per tracing, illustrazione e fumetti.",
+    "emoji": "💡",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "tavola luminosa light pad A4 disegno tracing",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "arte-006",
+    "name": "Tavoletta grafica digitale",
+    "description": "Tavoletta grafica con pennino sensibile alla pressione, compatibile con Photoshop, Illustrator e Procreate.",
+    "emoji": "🖱️",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "amazonQuery": "tavoletta grafica digitale pennino pressione",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "arte",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-001",
+    "name": "Tappetino yoga premium",
+    "description": "Tappetino antiscivolo in TPE ecologico, spesso 6mm, con borsa trasporto inclusa.",
+    "emoji": "🧘",
+    "priceLabel": "€30–55",
+    "priceMin": 30,
+    "priceMax": 55,
+    "amazonQuery": "tappetino yoga premium antiscivolo borsa",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "sport",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-002",
+    "name": "Bottiglia termica sportiva",
+    "description": "Borraccia in acciaio inox a doppia parete, mantiene il caldo 12h e il freddo 24h. Capacità 500ml.",
+    "emoji": "🧴",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "bottiglia termica acciaio inox sportiva",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "collega",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport",
+      "natura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-003",
+    "name": "Set bande elastiche fitness",
+    "description": "Kit 5 fasce di resistenza in lattice con diversi livelli, borsa e guida esercizi inclusa.",
+    "emoji": "💪",
+    "priceLabel": "€15–28",
+    "priceMin": 15,
+    "priceMax": 28,
+    "amazonQuery": "bande elastiche fitness resistenza set",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "sport",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-004",
+    "name": "Smartwatch fitness tracker",
+    "description": "Orologio smart con monitoraggio attività, frequenza cardiaca, sonno e notifiche. Autonomia 7 giorni, impermeabile.",
+    "emoji": "⌚",
+    "priceLabel": "€45–90",
+    "priceMin": 45,
+    "priceMax": 90,
+    "amazonQuery": "smartwatch fitness tracker cardiofrequenzimetro",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport",
+      "benessere",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario"
+    ]
+  },
+  {
+    "id": "sport-005",
+    "name": "Zaino running idratazione",
+    "description": "Zaino leggero per trail running con tasca per sacca idratazione da 2L, tasche porta gel e fischietto.",
+    "emoji": "🏃",
+    "priceLabel": "€35–60",
+    "priceMin": 35,
+    "priceMax": 60,
+    "amazonQuery": "zaino running trail idratazione leggero",
+    "relazioni": [
+      "partner",
+      "amico",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport",
+      "natura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-006",
+    "name": "Scarpe da running premium",
+    "description": "Scarpe tecniche con ammortizzazione avanzata, tomaia traspirante e suola in gomma ad alta durata.",
+    "emoji": "👟",
+    "priceLabel": "€80–150",
+    "priceMin": 80,
+    "priceMax": 150,
+    "amazonQuery": "scarpe running premium ammortizzazione",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "sport-007",
+    "name": "Abbonamento palestra annuale",
+    "description": "Gift card per abbonamento in palestra. Il regalo ideale per chi vuole iniziare o continuare ad allenarsi.",
+    "emoji": "🏋️",
+    "priceLabel": "€200–500",
+    "priceMin": 200,
+    "priceMax": 500,
+    "amazonQuery": "gift card abbonamento palestra fitness",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "sport",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "sport-008",
+    "name": "Bici da corsa entry level",
+    "description": "Bicicletta da corsa leggera in alluminio con cambio Shimano 21 velocità, ideale per iniziare.",
+    "emoji": "🚴",
+    "priceLabel": "€250–400",
+    "priceMin": 250,
+    "priceMax": 400,
+    "amazonQuery": "bici da corsa alluminio Shimano entry level",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "cucina-001",
+    "name": "Set coltelli da chef",
+    "description": "Tre coltelli professionali in acciaio inox con custodia in legno. Manico ergonomico, lama affilata a lungo.",
+    "emoji": "🔪",
+    "priceLabel": "€35–65",
+    "priceMin": 35,
+    "priceMax": 65,
+    "amazonQuery": "set coltelli chef professionali acciaio inox",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa",
+      "laurea"
+    ]
+  },
+  {
+    "id": "cucina-002",
+    "name": "Libro di cucina illustrato",
+    "description": "Ricette di alta cucina con fotografie mozzafiato, edizione deluxe cartonata. Oltre 150 ricette.",
+    "emoji": "📖",
+    "priceLabel": "€28–45",
+    "priceMin": 28,
+    "priceMax": 45,
+    "amazonQuery": "libro cucina illustrato ricette alta cucina",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "lettura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "cucina-003",
+    "name": "Box spezie del mondo",
+    "description": "Collezione di 12 spezie rare da tutto il mondo con ricettario abbinato e barattoli in vetro.",
+    "emoji": "🌶️",
+    "priceLabel": "€25–40",
+    "priceMin": 25,
+    "priceMax": 40,
+    "amazonQuery": "box spezie del mondo collezione barattoli",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "cucina-004",
+    "name": "Grembiule da cucina premium",
+    "description": "Grembiule in cotone canvas con tasche laterali e laccetti regolabili. Personalizzabile con nome.",
+    "emoji": "👨‍🍳",
+    "priceLabel": "€22–40",
+    "priceMin": 22,
+    "priceMax": 40,
+    "amazonQuery": "grembiule cucina canvas cotone personalizzato",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "cucina-005",
+    "name": "Macchina per la pasta",
+    "description": "Macchinetta manuale in acciaio cromato per sfogliare e tagliare la pasta fresca. Include 3 trafile.",
+    "emoji": "🍝",
+    "priceLabel": "€35–70",
+    "priceMin": 35,
+    "priceMax": 70,
+    "amazonQuery": "macchina pasta fresca manuale acciaio",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa"
+    ]
+  },
+  {
+    "id": "cucina-006",
+    "name": "Box cioccolato artigianale",
+    "description": "Selezione di praline e tavolette da cioccolatieri italiani. Confezione regalo elegante.",
+    "emoji": "🍫",
+    "priceLabel": "€18–35",
+    "priceMin": 18,
+    "priceMax": 35,
+    "amazonQuery": "cioccolato artigianale italiano box regalo praline",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_medio",
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "cucina-007",
+    "name": "KitchenAid Artisan",
+    "description": "Planetaria iconica da 4.8L con 10 velocità, gancio impastatore, frusta e foglia inclusi. Il sogno di ogni appassionato.",
+    "emoji": "🍰",
+    "priceLabel": "€350–500",
+    "priceMin": 350,
+    "priceMax": 500,
+    "amazonQuery": "KitchenAid Artisan planetaria",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "matrimonio",
+      "casa"
+    ]
+  },
+  {
+    "id": "cucina-008",
+    "name": "Corso di cucina professionale",
+    "description": "Corso di cucina con chef stellato, in presenza o online. Dai sushi alla pasta fresca, esperienze uniche.",
+    "emoji": "👨‍🍳",
+    "priceLabel": "€80–200",
+    "priceMin": 80,
+    "priceMax": 200,
+    "amazonQuery": "corso cucina professionale chef regalo esperienza",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "laurea"
+    ]
+  },
+  {
+    "id": "cucina-009",
+    "name": "Macchina per il caffè espresso",
+    "description": "Macchina espresso automatica con macinacaffè integrato, display touch e sistema di autopulizia.",
+    "emoji": "☕",
+    "priceLabel": "€200–400",
+    "priceMin": 200,
+    "priceMax": 400,
+    "amazonQuery": "macchina caffe espresso automatica macinacaffe integrato",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa"
+    ]
+  },
+  {
+    "id": "lettura-001",
+    "name": "Kindle Paperwhite",
+    "description": "E-reader con schermo da 6.8\" antiriflesso, retroilluminazione regolabile, impermeabile IPX8 e 16GB.",
+    "emoji": "📱",
+    "priceLabel": "€130–160",
+    "priceMin": 130,
+    "priceMax": 160,
+    "amazonQuery": "Kindle Paperwhite",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "fratello",
+      "nonno"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-002",
+    "name": "Lampada da lettura ricaricabile",
+    "description": "Lampada clip con 3 livelli di luminosità, luce calda anti-affaticamento e batteria ricaricabile USB-C.",
+    "emoji": "💡",
+    "priceLabel": "€18–32",
+    "priceMin": 18,
+    "priceMax": 32,
+    "amazonQuery": "lampada lettura clip ricaricabile luce calda",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-003",
+    "name": "Segnalibro personalizzato in legno",
+    "description": "Segnalibro artigianale in legno di ciliegio con incisione laser del nome o citazione preferita.",
+    "emoji": "🔖",
+    "priceLabel": "€10–18",
+    "priceMin": 10,
+    "priceMax": 18,
+    "amazonQuery": "segnalibro legno personalizzato incisione nome",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-004",
+    "name": "Abbonamento Audible 3 mesi",
+    "description": "Tre mesi di audiolibri illimitati su Audible. Perfetto per chi ama leggere ma ha poco tempo.",
+    "emoji": "🎧",
+    "priceLabel": "€30–45",
+    "priceMin": 30,
+    "priceMax": 45,
+    "amazonQuery": "abbonamento Audible gift card audiolibri",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "musica-001",
+    "name": "Cuffie wireless Bluetooth",
+    "description": "Cuffie over-ear con cancellazione attiva del rumore, autonomia 30h e ricarica rapida.",
+    "emoji": "🎧",
+    "priceLabel": "€60–120",
+    "priceMin": 60,
+    "priceMax": 120,
+    "amazonQuery": "cuffie wireless bluetooth cancellazione rumore",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "musica",
+      "sport",
+      "viaggi",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario"
+    ]
+  },
+  {
+    "id": "musica-002",
+    "name": "Altoparlante portatile impermeabile",
+    "description": "Speaker Bluetooth con certificazione IPX7, suono a 360°, autonomia 24h e funzione vivavoce.",
+    "emoji": "🔊",
+    "priceLabel": "€35–80",
+    "priceMin": 35,
+    "priceMax": 80,
+    "amazonQuery": "altoparlante portatile bluetooth impermeabile outdoor",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "musica",
+      "sport",
+      "natura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "musica-003",
+    "name": "Ukulele per principianti",
+    "description": "Ukulele soprano in tiglio con borsa, accordatore clip, plettri e guida per i primi accordi.",
+    "emoji": "🎸",
+    "priceLabel": "€40–70",
+    "priceMin": 40,
+    "priceMax": 70,
+    "amazonQuery": "ukulele principianti set completo borsa accordatore",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "musica",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "musica-004",
+    "name": "Giradischi con casse integrate",
+    "description": "Giradischi vintage con altoparlanti stereo integrati, ingresso Bluetooth e uscita RCA. Per veri audiofili.",
+    "emoji": "🎵",
+    "priceLabel": "€120–250",
+    "priceMin": 120,
+    "priceMax": 250,
+    "amazonQuery": "giradischi vintage casse integrate bluetooth",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "laurea"
+    ]
+  },
+  {
+    "id": "musica-005",
+    "name": "Pianoforte digitale 88 tasti",
+    "description": "Piano digitale con tastiera pesata a 88 tasti, polifonia 128 voci, cuffie incluse e supporto per spartiti.",
+    "emoji": "🎹",
+    "priceLabel": "€300–600",
+    "priceMin": 300,
+    "priceMax": 600,
+    "amazonQuery": "pianoforte digitale 88 tasti pesati",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "musica",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "gaming-001",
+    "name": "Gift card PlayStation / Xbox",
+    "description": "Carta regalo digitale per acquistare giochi, DLC e abbonamenti su PlayStation Store o Microsoft Store.",
+    "emoji": "🎮",
+    "priceLabel": "€15–50",
+    "priceMin": 15,
+    "priceMax": 50,
+    "amazonQuery": "gift card PlayStation Xbox digitale",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "gaming-002",
+    "name": "Mouse gaming ergonomico",
+    "description": "Mouse ottico RGB con 7 tasti programmabili, DPI regolabile fino a 16.000 e impugnatura ergonomica.",
+    "emoji": "🖱️",
+    "priceLabel": "€35–65",
+    "priceMin": 35,
+    "priceMax": 65,
+    "amazonQuery": "mouse gaming ergonomico RGB DPI programmabile",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "gaming",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "gaming-003",
+    "name": "Tappetino gaming XL",
+    "description": "Mousepad XXL (90x40cm) con bordi cuciti, superficie ottimizzata per sensori ottici e laser.",
+    "emoji": "🖥️",
+    "priceLabel": "€18–30",
+    "priceMin": 18,
+    "priceMax": 30,
+    "amazonQuery": "tappetino gaming XL mousepad grande bordi cuciti",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "gaming-004",
+    "name": "Nintendo Switch OLED",
+    "description": "Console Nintendo Switch con schermo OLED da 7\", dock incluso, Joy-Con e 64GB di memoria interna.",
+    "emoji": "🕹️",
+    "priceLabel": "€300–350",
+    "priceMin": 300,
+    "priceMax": 350,
+    "amazonQuery": "Nintendo Switch OLED console",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "gaming-005",
+    "name": "Sedia gaming ergonomica",
+    "description": "Sedia da gaming con supporto lombare regolabile, braccioli 4D, reclinazione fino a 155° e cuscino cervicale.",
+    "emoji": "🪑",
+    "priceLabel": "€200–400",
+    "priceMin": 200,
+    "priceMax": 400,
+    "amazonQuery": "sedia gaming ergonomica supporto lombare",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "gaming",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "tech-001",
+    "name": "Powerbank ultra slim 20.000mAh",
+    "description": "Caricabatterie portatile ad alta capacità con ricarica rapida 20W, due porte USB-C e display di stato.",
+    "emoji": "🔋",
+    "priceLabel": "€30–55",
+    "priceMin": 30,
+    "priceMax": 55,
+    "amazonQuery": "powerbank slim 20000mah ricarica rapida USB-C",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "tech",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "tech-002",
+    "name": "Cornice digitale WiFi",
+    "description": "Cornice fotografica da 10\" con schermo IPS, WiFi per ricevere foto da smartphone e memoria 8GB.",
+    "emoji": "🖼️",
+    "priceLabel": "€70–120",
+    "priceMin": 70,
+    "priceMax": 120,
+    "amazonQuery": "cornice digitale WiFi 10 pollici foto smartphone",
+    "relazioni": [
+      "genitore",
+      "nonno",
+      "partner",
+      "altro"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "tech",
+      "arte",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "tech-003",
+    "name": "Smart speaker con assistente vocale",
+    "description": "Altoparlante intelligente con assistente vocale integrato, suono premium e controllo domotica.",
+    "emoji": "🔈",
+    "priceLabel": "€50–100",
+    "priceMin": 50,
+    "priceMax": 100,
+    "amazonQuery": "smart speaker assistente vocale Alexa Google Home",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "tech",
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "tech-004",
+    "name": "Tablet per creatività",
+    "description": "Tablet 10\" con pennino incluso, ideale per disegno digitale, note a mano e navigazione.",
+    "emoji": "📲",
+    "priceLabel": "€150–300",
+    "priceMin": 150,
+    "priceMax": 300,
+    "amazonQuery": "tablet 10 pollici pennino disegno digitale",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "tech",
+      "arte",
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "tech-005",
+    "name": "Drone con fotocamera 4K",
+    "description": "Drone compatto con fotocamera 4K stabilizzata, autonomia 30 minuti e ritorno automatico.",
+    "emoji": "🚁",
+    "priceLabel": "€250–500",
+    "priceMin": 250,
+    "priceMax": 500,
+    "amazonQuery": "drone fotocamera 4K stabilizzato compatto",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "tech",
+      "arte",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "tech-006",
+    "name": "MacBook Air M2",
+    "description": "Laptop ultrasottile con chip M2, 8GB RAM, 256GB SSD, display Liquid Retina 13.6\" e autonomia 18h.",
+    "emoji": "💻",
+    "priceLabel": "€1100–1300",
+    "priceMin": 1100,
+    "priceMax": 1300,
+    "amazonQuery": "MacBook Air M2 laptop Apple",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "tech",
+      "arte",
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea"
+    ]
+  },
+  {
+    "id": "viaggi-001",
+    "name": "Organizer da viaggio",
+    "description": "Set di 6 cubi packing in nylon ripstop impermeabile. Organizza perfettamente valigia o zaino.",
+    "emoji": "🧳",
+    "priceLabel": "€20–40",
+    "priceMin": 20,
+    "priceMax": 40,
+    "amazonQuery": "organizer da viaggio packing cube set impermeabile",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "viaggi-002",
+    "name": "Portafoglio RFID slim",
+    "description": "Portafoglio ultra-sottile in pelle con protezione anti-clonazione RFID, porta carte e banconote.",
+    "emoji": "👛",
+    "priceLabel": "€25–50",
+    "priceMin": 25,
+    "priceMax": 50,
+    "amazonQuery": "portafoglio slim pelle RFID protezione carte",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "viaggi-003",
+    "name": "Valigia trolley cabina",
+    "description": "Trolley rigido 55cm in policarbonato ultraleggero, lucchetto TSA integrato, ruote 360°.",
+    "emoji": "🧳",
+    "priceLabel": "€80–150",
+    "priceMin": 80,
+    "priceMax": 150,
+    "amazonQuery": "valigia trolley cabina rigida policarbonato TSA",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "viaggi-004",
+    "name": "Esperienza in mongolfiera",
+    "description": "Volo in mongolfiera all'alba con colazione inclusa. Un'esperienza indimenticabile per due persone.",
+    "emoji": "🎈",
+    "priceLabel": "€200–350",
+    "priceMin": 200,
+    "priceMax": 350,
+    "amazonQuery": "esperienza volo mongolfiera regalo coppia",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "viaggi-005",
+    "name": "Weekend in hotel spa",
+    "description": "Gift card per soggiorno romantico in hotel con spa, colazione inclusa e accesso alle terme.",
+    "emoji": "🏨",
+    "priceLabel": "€200–500",
+    "priceMin": 200,
+    "priceMax": 500,
+    "amazonQuery": "gift card weekend hotel spa benessere",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-001",
+    "name": "Kit erbe aromatiche da coltivare",
+    "description": "Set completo con vasi in terracotta, semi di basilico, rosmarino, menta e prezzemolo.",
+    "emoji": "🌱",
+    "priceLabel": "€18–32",
+    "priceMin": 18,
+    "priceMax": 32,
+    "amazonQuery": "kit erbe aromatiche coltivare semi vasi terracotta",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "cucina"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-002",
+    "name": "Binocolo compatto 10x42",
+    "description": "Binocolo impermeabile con prismi BAK4 e rivestimento antiriflesso FMC. Ideale per birdwatching.",
+    "emoji": "🔭",
+    "priceLabel": "€55–100",
+    "priceMin": 55,
+    "priceMax": 100,
+    "amazonQuery": "binocolo compatto 10x42 impermeabile birdwatching",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "viaggi",
+      "sport"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-003",
+    "name": "Amaca da campeggio ultralight",
+    "description": "Amaca portatile in nylon ripstop con cinghie in poliestere, capacità 150kg, si monta in 5 minuti.",
+    "emoji": "🌳",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "amaca campeggio ultralight nylon portatile",
+    "relazioni": [
+      "partner",
+      "amico",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "natura",
+      "sport",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-001",
+    "name": "Set candele profumate artigianali",
+    "description": "Cofanetto con 3 candele in cera di soia con profumi di vaniglia, sandalo e gelsomino. Fino a 45h.",
+    "emoji": "🕯️",
+    "priceLabel": "€18–30",
+    "priceMin": 18,
+    "priceMax": 30,
+    "amazonQuery": "candele profumate artigianali cera soia cofanetto",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-002",
+    "name": "Beauty kit spa a casa",
+    "description": "Set premium con sali da bagno himalaya, olio corpo, maschera viso e scrub in beauty-bag cotone.",
+    "emoji": "🛁",
+    "priceLabel": "€28–50",
+    "priceMin": 28,
+    "priceMax": 50,
+    "amazonQuery": "beauty kit spa casa sali bagno olio maschera",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-003",
+    "name": "Diffusore di aromi ultrasonico",
+    "description": "Diffusore per oli essenziali con nebulizzatore ultrasonico, 7 colori LED e timer programmabile.",
+    "emoji": "🌸",
+    "priceLabel": "€22–40",
+    "priceMin": 22,
+    "priceMax": 40,
+    "amazonQuery": "diffusore aromi ultrasonico oli essenziali LED",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-004",
+    "name": "Massaggiatore cervicale Shiatsu",
+    "description": "Massaggiatore a infrarossi con 8 nodi rotanti, calore regolabile, ideale per collo e spalle.",
+    "emoji": "💆",
+    "priceLabel": "€35–70",
+    "priceMin": 35,
+    "priceMax": 70,
+    "amazonQuery": "massaggiatore cervicale shiatsu infrarossi collo spalle",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-005",
+    "name": "Percorso benessere termale",
+    "description": "Gift card per accesso a terme e spa con trattamenti inclusi. Relax totale per una o due persone.",
+    "emoji": "♨️",
+    "priceLabel": "€80–200",
+    "priceMin": 80,
+    "priceMax": 200,
+    "amazonQuery": "gift card terme spa benessere trattamenti",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "benessere-006",
+    "name": "Cuscino memory foam ergonomico",
+    "description": "Cuscino ortopedico in memory foam con copertina lavabile, riduce dolori cervicali e migliora il sonno.",
+    "emoji": "😴",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "amazonQuery": "cuscino memory foam ergonomico cervicale sonno",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-001",
+    "name": "Set giocattoli interattivi per gatto",
+    "description": "Kit con bacchetta con piume, pallina luminosa e tunnel. Stimola l'istinto predatorio.",
+    "emoji": "🐱",
+    "priceLabel": "€15–28",
+    "priceMin": 15,
+    "priceMax": 28,
+    "amazonQuery": "giocattoli interattivi gatto bacchetta piume tunnel",
+    "relazioni": [
+      "partner",
+      "amico",
+      "fratello",
+      "figlio",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "animali"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-002",
+    "name": "Kit toelettatura per cane",
+    "description": "Set professionale con spazzola, pettine, forbici arrotondate e guanto. Per pelo lungo e corto.",
+    "emoji": "🐶",
+    "priceLabel": "€18–35",
+    "priceMin": 18,
+    "priceMax": 35,
+    "amazonQuery": "kit toelettatura cane professionale spazzola forbici",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "animali"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-003",
+    "name": "Telecamera pet WiFi",
+    "description": "Videocamera per monitorare gli animali da remoto con audio bidirezionale e visione notturna.",
+    "emoji": "📹",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "amazonQuery": "telecamera pet wifi monitoraggio animali domestici",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "animali",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-001",
+    "name": "Set morbidoni e sonagli",
+    "description": "Cofanetto con peluche morbidi, sonagli colorati e un libro in stoffa lavabile. Sicuro per neonati.",
+    "emoji": "🧸",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "set morbidoni sonagli neonato regalo nascita",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-002",
+    "name": "Tappeto gioco educativo",
+    "description": "Tappeto morbido con arco attività, specchietto, giochi sensoriali e melodie. Per i primi mesi.",
+    "emoji": "🎪",
+    "priceLabel": "€30–55",
+    "priceMin": 30,
+    "priceMax": 55,
+    "amazonQuery": "tappeto gioco educativo neonato arco attività sensoriale",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-003",
+    "name": "Kit pittura per bambini",
+    "description": "Set completo con colori lavabili, pennelli, grembiulino e album. Sicuro e atossico per bambini dai 3 anni.",
+    "emoji": "🎨",
+    "priceLabel": "€15–25",
+    "priceMin": 15,
+    "priceMax": 25,
+    "amazonQuery": "kit pittura bambini colori lavabili atossici set",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_medio"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-004",
+    "name": "Puzzle 3D animali",
+    "description": "Puzzle tridimensionale in legno con forme di animali colorati. Sviluppa la motricità fine dai 3 anni.",
+    "emoji": "🧩",
+    "priceLabel": "€18–30",
+    "priceMin": 18,
+    "priceMax": 30,
+    "amazonQuery": "puzzle 3D legno animali bambini motricità",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_medio"
+    ],
+    "interessi": [
+      "arte",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-005",
+    "name": "LEGO Creator 3 in 1",
+    "description": "Set LEGO modulare costruibile in 3 modi diversi. Stimola creatività e problem solving dai 7 anni.",
+    "emoji": "🧱",
+    "priceLabel": "€25–60",
+    "priceMin": 25,
+    "priceMax": 60,
+    "amazonQuery": "LEGO Creator 3 in 1 set mattoncini",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente"
+    ],
+    "interessi": [
+      "arte",
+      "gaming"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-006",
+    "name": "Bici senza pedali",
+    "description": "Bici balance in legno leggero per imparare l'equilibrio. Regolabile in altezza, dai 2 anni.",
+    "emoji": "🚲",
+    "priceLabel": "€35–60",
+    "priceMin": 35,
+    "priceMax": 60,
+    "amazonQuery": "bici senza pedali balance bike legno bambini",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_piccolo",
+      "bimbo_medio"
+    ],
+    "interessi": [
+      "sport",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-007",
+    "name": "Kit scientifico per ragazzi",
+    "description": "Set esperimenti scientifici con vulcano, cristalli, slime e magneti. Divertimento educativo dagli 8 anni.",
+    "emoji": "🔬",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "kit scientifico bambini esperimenti vulcano cristalli",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande"
+    ],
+    "interessi": [
+      "tech",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "univ-001",
+    "name": "Diario in pelle personalizzato",
+    "description": "Taccuino con copertina in vera pelle, incisione del nome inclusa, carta a righe o puntinata.",
+    "emoji": "📔",
+    "priceLabel": "€22–40",
+    "priceMin": 22,
+    "priceMax": 40,
+    "amazonQuery": "diario pelle personalizzato incisione nome taccuino",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega",
+      "nonno"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "arte",
+      "lettura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "univ-002",
+    "name": "Esperienza in elicottero",
+    "description": "Volo panoramico in elicottero sulla tua città o sulle Alpi. Regalo unico e indimenticabile.",
+    "emoji": "🚁",
+    "priceLabel": "€150–350",
+    "priceMin": 150,
+    "priceMax": 350,
+    "amazonQuery": "esperienza volo elicottero panoramico regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "univ-003",
+    "name": "Lezione privata con esperto",
+    "description": "Gift card per una o più lezioni private: cucina, fotografia, yoga, pittura o qualsiasi altra passione.",
+    "emoji": "🎓",
+    "priceLabel": "€50–200",
+    "priceMin": 50,
+    "priceMax": 200,
+    "amazonQuery": "lezione privata esperto gift card corso",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "fratello"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "arte",
+      "sport",
+      "cucina",
+      "musica",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "univ-004",
+    "name": "Gift card Amazon",
+    "description": "Carta regalo Amazon con importo a scelta. Disponibile via email o in versione fisica elegante.",
+    "emoji": "🛍️",
+    "priceLabel": "Importo a scelta",
+    "priceMin": 0,
+    "priceMax": 9999,
+    "amazonQuery": "gift card Amazon carta regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "fratello",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_piccolo",
+      "bimbo_medio",
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "arte",
+      "sport",
+      "cucina",
+      "lettura",
+      "musica",
+      "gaming",
+      "viaggi",
+      "natura",
+      "benessere",
+      "animali",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "laurea",
+      "matrimonio",
+      "nascita",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-001",
+    "name": "Set bicchieri artigianali soffiati",
+    "description": "Sei calici in vetro soffiato a mano con venature colorate uniche. Ogni pezzo è unico.",
+    "emoji": "🥂",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "amazonQuery": "bicchieri artigianali vetro soffiato mano calici",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "altro"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "arte",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "matrimonio",
+      "casa"
+    ]
+  },
+  {
+    "id": "casa-002",
+    "name": "Pianta succulenta con vaso decorativo",
+    "description": "Succulenta o cactus con vaso in ceramica dipinto a mano. Facilissima da curare.",
+    "emoji": "🌵",
+    "priceLabel": "€12–25",
+    "priceMin": 12,
+    "priceMax": 25,
+    "amazonQuery": "pianta succulenta vaso ceramica decorativo regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-003",
+    "name": "Robot aspirapolvere smart",
+    "description": "Aspirapolvere robotico con mappatura laser, svuotamento automatico e controllo da app smartphone.",
+    "emoji": "🤖",
+    "priceLabel": "€200–400",
+    "priceMin": 200,
+    "priceMax": 400,
+    "amazonQuery": "robot aspirapolvere smart mappatura laser app",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "tech",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa"
+    ]
+  },
+  {
+    "id": "bimbi-008",
+    "name": "Cubo attività multifunzione legno",
+    "description": "Cubo educativo Montessori in legno con labirinto, ingranaggi, contatori e specchio. Stimola la motricità fine dai 12 mesi.",
+    "emoji": "🧮",
+    "priceLabel": "€35–65",
+    "priceMin": 35,
+    "priceMax": 65,
+    "amazonQuery": "cubo attività montessori legno bambini 1 anno",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-009",
+    "name": "Libri sensoriali in stoffa",
+    "description": "Set di 4 libri morbidi con texture diverse, suoni cri-cri e specchietti. Lavabili in lavatrice. Da 6 mesi.",
+    "emoji": "📚",
+    "priceLabel": "€18–28",
+    "priceMin": 18,
+    "priceMax": 28,
+    "amazonQuery": "libri sensoriali stoffa neonato lavabili texture",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "lettura",
+      "arte"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-010",
+    "name": "Set pasta da modellare atossica",
+    "description": "Pasta tipo Play-Doh in 8 colori con formine, mattarello e accessori. Atossica e certificata, dai 2 anni.",
+    "emoji": "🎨",
+    "priceLabel": "€15–25",
+    "priceMin": 15,
+    "priceMax": 25,
+    "amazonQuery": "pasta modellare bambini atossica formine play doh",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo",
+      "bimbo_medio"
+    ],
+    "interessi": [
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-011",
+    "name": "Peluche con melodia e luci",
+    "description": "Peluche interattivo che canta ninne nanne, proietta stelle sul soffitto e ha un timer notturno. Ideale dalla nascita.",
+    "emoji": "🐻",
+    "priceLabel": "€25–40",
+    "priceMin": 25,
+    "priceMax": 40,
+    "amazonQuery": "peluche neonato melodia proiettore stelle ninna nanna",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "musica",
+      "benessere"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-012",
+    "name": "Set abbigliamento bio neonato",
+    "description": "Confezione regalo con body, tutina, bavaglino e cuffietta in cotone biologico certificato GOTS.",
+    "emoji": "👶",
+    "priceLabel": "€30–55",
+    "priceMin": 30,
+    "priceMax": 55,
+    "amazonQuery": "set abbigliamento neonato cotone biologico GOTS regalo",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore",
+      "collega"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-013",
+    "name": "Album ricordi del primo anno",
+    "description": "Album personalizzabile con sezioni mese per mese, impronte, foto e prime parole. Copertina in lino.",
+    "emoji": "📖",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "album ricordi primo anno neonato impronte foto",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo"
+    ],
+    "interessi": [
+      "arte",
+      "lettura"
+    ],
+    "occasioni": [
+      "nascita",
+      "altro"
+    ]
+  },
+  {
+    "id": "bimbi-014",
+    "name": "Triangolo di Pikler",
+    "description": "Struttura in legno per arrampicata indoor secondo il metodo Pikler. Pieghevole, sviluppa motricità ed equilibrio dai 10 mesi.",
+    "emoji": "🧗",
+    "priceLabel": "€80–150",
+    "priceMin": 80,
+    "priceMax": 150,
+    "amazonQuery": "triangolo Pikler legno arrampicata bambini Montessori",
+    "provider": "amazon",
+    "relazioni": [
+      "figlio",
+      "fratello",
+      "amico",
+      "altro",
+      "nonno",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_piccolo",
+      "bimbo_medio"
+    ],
+    "interessi": [
+      "sport",
+      "arte"
+    ],
+    "occasioni": [
+      "nascita",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-004",
+    "name": "Tiragraffi modulare premium",
+    "description": "Albero tiragraffi alto 130cm con cucce, amaca, palline pendenti e corda di sisal. Stabile e adatto a più gatti.",
+    "emoji": "🐈",
+    "priceLabel": "€55–110",
+    "priceMin": 55,
+    "priceMax": 110,
+    "amazonQuery": "tiragraffi gatto albero modulare cucce sisal",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "animali"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-005",
+    "name": "Distributore automatico cibo pet",
+    "description": "Distributore programmabile con app, fino a 6 pasti al giorno, registratore vocale e telecamera HD opzionale.",
+    "emoji": "🍽️",
+    "priceLabel": "€60–120",
+    "priceMin": 60,
+    "priceMax": 120,
+    "amazonQuery": "distributore automatico cibo cane gatto app",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "animali",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-006",
+    "name": "Cuccia ortopedica memory foam",
+    "description": "Cuccia con base in memory foam ad alta densità, sfoderabile e lavabile. Ideale per cani anziani o di taglia grande.",
+    "emoji": "🛏️",
+    "priceLabel": "€45–90",
+    "priceMin": 45,
+    "priceMax": 90,
+    "amazonQuery": "cuccia cane memory foam ortopedica sfoderabile",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "animali",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-007",
+    "name": "Box snack puzzle interattivo",
+    "description": "Gioco intelligente per cani: nasconde croccantini in scomparti che il cane deve aprire. Stimola la mente e riduce ansia.",
+    "emoji": "🧩",
+    "priceLabel": "€18–35",
+    "priceMin": 18,
+    "priceMax": 35,
+    "amazonQuery": "puzzle interattivo cane snack gioco intelligente",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "animali"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "animali-008",
+    "name": "Acquario starter kit completo",
+    "description": "Acquario 30L con filtro, illuminazione LED, riscaldatore e ghiaia. Perfetto per chi inizia con i pesci.",
+    "emoji": "🐠",
+    "priceLabel": "€45–85",
+    "priceMin": 45,
+    "priceMax": 85,
+    "amazonQuery": "acquario starter kit completo 30L LED filtro",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "altro"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "animali",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-004",
+    "name": "Diffusore aromaterapia smart",
+    "description": "Diffusore di oli essenziali con luce ambient regolabile, timer e controllo da app. Capacità 500ml.",
+    "emoji": "🪔",
+    "priceLabel": "€35–60",
+    "priceMin": 35,
+    "priceMax": 60,
+    "amazonQuery": "diffusore aromaterapia oli essenziali smart luce ambient",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-005",
+    "name": "Plaid riscaldato in pile",
+    "description": "Coperta elettrica in pile soffice con 9 livelli di temperatura, timer e auto-spegnimento di sicurezza.",
+    "emoji": "🛋️",
+    "priceLabel": "€45–85",
+    "priceMin": 45,
+    "priceMax": 85,
+    "amazonQuery": "plaid coperta elettrica riscaldata pile timer",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "genitore",
+      "nonno",
+      "amico",
+      "collega"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-006",
+    "name": "Cornice digitale WiFi 10\"",
+    "description": "Cornice smart per inviare foto da remoto via app. Schermo HD da 10\", touch e rotazione automatica.",
+    "emoji": "🖼️",
+    "priceLabel": "€80–140",
+    "priceMin": 80,
+    "priceMax": 140,
+    "amazonQuery": "cornice digitale WiFi 10 pollici foto app",
+    "provider": "amazon",
+    "relazioni": [
+      "genitore",
+      "nonno",
+      "partner",
+      "amico"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "tech",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-007",
+    "name": "Set candele soia profumate",
+    "description": "Trio di candele in cera di soia con oli essenziali (lavanda, vaniglia, eucalipto). Bruciatura 35 ore ognuna.",
+    "emoji": "🕯️",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "set candele soia profumate oli essenziali regalo",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "collega",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "casa-008",
+    "name": "Set lenzuola percalle 100% cotone",
+    "description": "Parure matrimoniale in cotone percalle TC400, super morbida e traspirante. Confezione regalo elegante.",
+    "emoji": "🛏️",
+    "priceLabel": "€60–120",
+    "priceMin": 60,
+    "priceMax": 120,
+    "amazonQuery": "set lenzuola matrimoniali cotone percalle TC400",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "genitore",
+      "amico",
+      "altro"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "matrimonio",
+      "casa",
+      "anniversario",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-004",
+    "name": "Stazione meteo digitale",
+    "description": "Stazione meteo wireless con sensore esterno, previsioni 12h, allerta gelo e calendario lunare.",
+    "emoji": "🌦️",
+    "priceLabel": "€35–65",
+    "priceMin": 35,
+    "priceMax": 65,
+    "amazonQuery": "stazione meteo digitale wireless sensore esterno",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "genitore",
+      "nonno",
+      "amico"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-005",
+    "name": "Bonsai ginepro 5 anni",
+    "description": "Bonsai vero di ginepro alto 25cm con vaso ceramica, sottovaso e guida alla cura. Pianta robusta per principianti.",
+    "emoji": "🌳",
+    "priceLabel": "€35–70",
+    "priceMin": 35,
+    "priceMax": 70,
+    "amazonQuery": "bonsai ginepro vero vaso ceramica principianti",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-006",
+    "name": "Casetta nidi per uccellini",
+    "description": "Nido in legno FSC verniciato con vernici atossiche, foro 32mm per cinciallegre. Made in EU.",
+    "emoji": "🐦",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "casetta nido uccellini legno giardino cinciallegre",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "nonno",
+      "altro"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "animali"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-007",
+    "name": "Telescopio rifrattore 70/700",
+    "description": "Telescopio con treppiede regolabile, oculari intercambiabili e cercatore. Per osservare luna, pianeti e nebulose.",
+    "emoji": "🔭",
+    "priceLabel": "€90–160",
+    "priceMin": 90,
+    "priceMax": 160,
+    "amazonQuery": "telescopio rifrattore 70 700 astronomia treppiede",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "genitore"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "natura",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "natura-008",
+    "name": "Kit fotografia macro insetti",
+    "description": "Lente macro 25mm clip-on per smartphone con LED integrato. Per scoprire un mondo nascosto in giardino.",
+    "emoji": "🦋",
+    "priceLabel": "€18–32",
+    "priceMin": 18,
+    "priceMax": 32,
+    "amazonQuery": "lente macro smartphone clip LED fotografia insetti",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "bimbo_grande",
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "natura",
+      "arte",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-005",
+    "name": "Cofanetto trilogia bestseller",
+    "description": "Edizione regalo con cofanetto rigido di una trilogia bestseller (es. Stieg Larsson, Elena Ferrante). Brossura premium.",
+    "emoji": "📚",
+    "priceLabel": "€35–55",
+    "priceMin": 35,
+    "priceMax": 55,
+    "amazonQuery": "cofanetto trilogia libri bestseller edizione regalo",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega",
+      "nonno"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-006",
+    "name": "Reggilibro design minimalista",
+    "description": "Coppia di reggilibri in metallo nero opaco, design \"libri sospesi\" che sembrano fluttuare. Capacità fino a 30cm.",
+    "emoji": "🗂️",
+    "priceLabel": "€20–35",
+    "priceMin": 20,
+    "priceMax": 35,
+    "amazonQuery": "reggilibri metallo design minimalista invisibili",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "arte"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-007",
+    "name": "Poltrona sacco lettura",
+    "description": "Pouf gigante in tessuto morbido con tasca laterale per libri. Riempito con microsfere, leggero e comodo.",
+    "emoji": "🛋️",
+    "priceLabel": "€80–140",
+    "priceMin": 80,
+    "priceMax": 140,
+    "amazonQuery": "pouf sacco gigante lettura microsfere tasca",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "figlio",
+      "fratello",
+      "amico"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "lettura",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "casa",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-008",
+    "name": "Abbonamento Storytel 6 mesi",
+    "description": "Sei mesi di audiolibri ed ebook illimitati su Storytel. Perfetto per pendolari e amanti della lettura.",
+    "emoji": "🎧",
+    "priceLabel": "€60–80",
+    "priceMin": 60,
+    "priceMax": 80,
+    "amazonQuery": "gift card Storytel abbonamento audiolibri",
+    "provider": "direct",
+    "externalUrl": "https://www.storytel.com/it/regala",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "lettura-009",
+    "name": "Custodia in pelle per Kindle",
+    "description": "Cover artigianale in vera pelle italiana, con fascia elastica e funzione auto sleep/wake. Compatibile Kindle Paperwhite.",
+    "emoji": "📕",
+    "priceLabel": "€25–45",
+    "priceMin": 25,
+    "priceMax": 45,
+    "amazonQuery": "custodia Kindle Paperwhite pelle italiana auto sleep",
+    "provider": "amazon",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "tech"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-smart-001",
+    "name": "Cofanetto Smartbox \"Cena gourmet\"",
+    "description": "Cena per 2 persone in oltre 1300 ristoranti selezionati in Italia. Validità 3 anni e 3 mesi gratuiti se non utilizzato in tempo.",
+    "emoji": "🍷",
+    "priceLabel": "€60–90",
+    "priceMin": 60,
+    "priceMax": 90,
+    "amazonQuery": "cofanetto Smartbox cena gourmet 2 persone ristoranti",
+    "provider": "smartbox",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "collega",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-smart-002",
+    "name": "Cofanetto Smartbox \"Soggiorno romantico\"",
+    "description": "Una notte per 2 persone in B&B, agriturismi e hotel di charme. Oltre 2000 strutture in Italia ed Europa.",
+    "emoji": "🏨",
+    "priceLabel": "€100–180",
+    "priceMin": 100,
+    "priceMax": 180,
+    "amazonQuery": "Smartbox soggiorno romantico 2 notti agriturismo",
+    "provider": "smartbox",
+    "relazioni": [
+      "partner",
+      "genitore",
+      "amico"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi",
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-smart-003",
+    "name": "Cofanetto Smartbox \"Avventura adrenalina\"",
+    "description": "Un'esperienza tra parapendio, bungee jumping, rafting o guida sportiva. 250+ esperienze in Italia.",
+    "emoji": "🪂",
+    "priceLabel": "€60–120",
+    "priceMin": 60,
+    "priceMax": 120,
+    "amazonQuery": "Smartbox avventura parapendio bungee adrenalina",
+    "provider": "smartbox",
+    "relazioni": [
+      "partner",
+      "amico",
+      "fratello",
+      "figlio"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "sport",
+      "viaggi",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "laurea",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-emo-001",
+    "name": "Cofanetto Emozione3 \"SPA & relax\"",
+    "description": "Percorso benessere per 2 persone in oltre 700 SPA italiane. Include accesso alle aree umide e un trattamento.",
+    "emoji": "💆",
+    "priceLabel": "€80–140",
+    "priceMin": 80,
+    "priceMax": 140,
+    "amazonQuery": "Emozione3 SPA benessere 2 persone trattamento",
+    "provider": "emozione3",
+    "relazioni": [
+      "partner",
+      "genitore",
+      "amico",
+      "collega",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-emo-002",
+    "name": "Cofanetto Emozione3 \"Degustazione vini\"",
+    "description": "Visita in cantina con degustazione di vini DOC per 2 persone. Oltre 200 cantine in tutta Italia.",
+    "emoji": "🍇",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "amazonQuery": "Emozione3 degustazione vini cantina 2 persone",
+    "provider": "emozione3",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "collega",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "esp-smart-004",
+    "name": "Cofanetto Smartbox \"Volo in mongolfiera\"",
+    "description": "Volo panoramico in mongolfiera all'alba con brindisi finale. Esperienza da fare almeno una volta nella vita.",
+    "emoji": "🎈",
+    "priceLabel": "€200–350",
+    "priceMin": 200,
+    "priceMax": 350,
+    "amazonQuery": "Smartbox volo mongolfiera panoramico alba",
+    "provider": "smartbox",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "viaggi",
+      "natura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "tour-vt-001",
+    "name": "Tour gastronomico in città italiana",
+    "description": "Walking food tour di 3 ore con guida locale: street food, mercati storici e degustazioni tipiche.",
+    "emoji": "🥖",
+    "priceLabel": "€55–95",
+    "priceMin": 55,
+    "priceMax": 95,
+    "amazonQuery": "food tour Italia degustazione street food guida",
+    "provider": "viator",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "tour-gyg-001",
+    "name": "Biglietto skip-the-line musei top",
+    "description": "Voucher per saltare la fila in uno dei principali musei europei (Uffizi, Vaticano, Louvre, Prado, Reichstag).",
+    "emoji": "🏛️",
+    "priceLabel": "€25–60",
+    "priceMin": 25,
+    "priceMax": 60,
+    "amazonQuery": "skip the line musei Uffizi Vaticano biglietto",
+    "provider": "getyourguide",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "arte",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "tour-vt-002",
+    "name": "Esperienza \"Pasta class\" in famiglia italiana",
+    "description": "Lezione di cucina per imparare a fare pasta fresca in casa di una famiglia italiana, con pranzo finale incluso.",
+    "emoji": "🍝",
+    "priceLabel": "€70–130",
+    "priceMin": 70,
+    "priceMax": 130,
+    "amazonQuery": "lezione cucina pasta fresca famiglia italiana esperienza",
+    "provider": "viator",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
+      "viaggi"
+    ],
+    "occasioni": [
+      "compleanno",
+      "anniversario",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "beauty-tw-001",
+    "name": "Voucher Treatwell — Massaggio rilassante 60 min",
+    "description": "Gift card per massaggio rilassante o decontratturante di 60 minuti in oltre 12.000 saloni in Italia.",
+    "emoji": "💆‍♀️",
+    "priceLabel": "€45–75",
+    "priceMin": 45,
+    "priceMax": 75,
+    "amazonQuery": "voucher Treatwell massaggio rilassante 60 minuti",
+    "provider": "treatwell",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "collega",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "beauty-tw-002",
+    "name": "Voucher Treatwell — Beauty package",
+    "description": "Pacchetto completo manicure + pedicure + piega capelli in salone a scelta. Validità 12 mesi.",
+    "emoji": "💅",
+    "priceLabel": "€60–100",
+    "priceMin": 60,
+    "priceMax": 100,
+    "amazonQuery": "Treatwell beauty package manicure pedicure piega",
+    "provider": "treatwell",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "collega",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "benessere"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "sub-direct-001",
+    "name": "Abbonamento Spotify Premium 6 mesi",
+    "description": "Sei mesi di musica e podcast senza pubblicità, ascolto offline e qualità audio HD. Carta regalo digitale.",
+    "emoji": "🎵",
+    "priceLabel": "€60–70",
+    "priceMin": 60,
+    "priceMax": 70,
+    "amazonQuery": "gift card Spotify Premium abbonamento musica",
+    "provider": "direct",
+    "externalUrl": "https://www.spotify.com/it/gift/",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto"
+    ],
+    "interessi": [
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "altro"
+    ]
+  },
+  {
+    "id": "sub-direct-002",
+    "name": "Abbonamento Netflix gift card",
+    "description": "Carta regalo digitale Netflix con importo a scelta (€25/€50). Valida per qualsiasi piano e nuovi/vecchi utenti.",
+    "emoji": "🎬",
+    "priceLabel": "€25–60",
+    "priceMin": 25,
+    "priceMax": 60,
+    "amazonQuery": "gift card Netflix abbonamento streaming",
+    "provider": "direct",
+    "externalUrl": "https://www.netflix.com/it/gift-cards",
+    "relazioni": [
+      "partner",
+      "amico",
+      "figlio",
+      "fratello",
+      "collega",
+      "genitore"
+    ],
+    "eta": [
+      "adolescente",
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "gaming",
+      "lettura"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "sub-direct-003",
+    "name": "Abbonamento Audible 1 anno",
+    "description": "Dodici mesi di audiolibri illimitati su Audible, oltre 200.000 titoli in italiano. Voucher digitale.",
+    "emoji": "🎧",
+    "priceLabel": "€100–130",
+    "priceMin": 100,
+    "priceMax": 130,
+    "amazonQuery": "gift card Audible 12 mesi audiolibri annuale",
+    "provider": "direct",
+    "externalUrl": "https://www.audible.it/ep/regala-audible",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "fratello",
+      "collega",
+      "nonno"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "lettura",
+      "musica"
+    ],
+    "occasioni": [
+      "compleanno",
+      "natale",
+      "laurea",
+      "anniversario",
+      "altro"
+    ]
+  }
+]
