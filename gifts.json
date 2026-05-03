@@ -5402,6 +5402,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno"
     ],
@@ -5433,6 +5434,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello"
@@ -5443,7 +5445,8 @@
       "senior"
     ],
     "interessi": [
-      "benessere"
+      "benessere",
+      "natura"
     ],
     "occasioni": [
       "festa_mamma",
@@ -5466,6 +5469,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello"
@@ -5476,13 +5480,113 @@
       "senior"
     ],
     "interessi": [
-      "benessere"
+      "benessere",
+      "natura"
     ],
     "occasioni": [
       "festa_mamma",
       "compleanno",
       "natale",
       "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "festamamma-004",
+    "name": "Bouquet fiori di stagione con consegna",
+    "description": "Bouquet di fiori freschi di stagione con confezionamento premium e bigliettino personalizzato. Consegna a domicilio in 24h.",
+    "emoji": "💐",
+    "priceLabel": "€30–60",
+    "priceMin": 30,
+    "priceMax": 60,
+    "amazonQuery": "bouquet fiori stagione consegna domicilio regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "benessere"
+    ],
+    "occasioni": [
+      "festa_mamma",
+      "compleanno",
+      "anniversario",
+      "valentino",
+      "altro"
+    ]
+  },
+  {
+    "id": "festamamma-005",
+    "name": "Foulard in seta stampato a mano",
+    "description": "Foulard 90x90cm in seta naturale con stampa floreale artigianale. Cofanetto regalo incluso. Versatile come sciarpa, accessorio o decorazione.",
+    "emoji": "🧣",
+    "priceLabel": "€45–90",
+    "priceMin": 45,
+    "priceMax": 90,
+    "amazonQuery": "foulard seta stampato mano floreale donna cofanetto regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "moda",
+      "arte"
+    ],
+    "occasioni": [
+      "festa_mamma",
+      "compleanno",
+      "natale",
+      "anniversario",
+      "altro"
+    ]
+  },
+  {
+    "id": "festamamma-006",
+    "name": "Kit giardinaggio creativo con semi",
+    "description": "Set completo per coltivare piante aromatiche e fiori sul balcone: vasi in terracotta, substrato organico, semi di lavanda, basilico e geranio.",
+    "emoji": "🌱",
+    "priceLabel": "€25–50",
+    "priceMin": 25,
+    "priceMax": 50,
+    "amazonQuery": "kit giardinaggio semi lavanda fiori balcone vasi terracotta regalo",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "arte"
+    ],
+    "occasioni": [
+      "festa_mamma",
+      "compleanno",
+      "natale",
       "altro"
     ]
   },
@@ -5498,6 +5602,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello"
@@ -5530,6 +5635,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello"
@@ -5564,6 +5670,7 @@
     "provider": "smartbox",
     "relazioni": [
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello",
@@ -5599,6 +5706,7 @@
     "relazioni": [
       "partner",
       "amico",
+      "genitore",
       "figlio",
       "nonno",
       "fratello",
@@ -5610,6 +5718,142 @@
     ],
     "interessi": [
       "lettura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "pensione",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "festapapa-003",
+    "name": "Smartbox escursione in natura",
+    "description": "Cofanetto Smartbox con escursioni guidate in montagna, trekking, gite in barca e passeggiate nella natura. Oltre 200 esperienze in Italia.",
+    "emoji": "🏔️",
+    "priceLabel": "€40–80",
+    "priceMin": 40,
+    "priceMax": 80,
+    "provider": "smartbox",
+    "amazonQuery": "smartbox escursione natura trekking montagna gita",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "natura",
+      "sport",
+      "viaggi"
+    ],
+    "occasioni": [
+      "festa_papa",
+      "compleanno",
+      "natale",
+      "pensione",
+      "altro"
+    ]
+  },
+  {
+    "id": "festapapa-004",
+    "name": "Kit manutenzione bici o moto premium",
+    "description": "Set professionale con lubrificante catena, kit pulizia, guanti e multitool 16-in-1. Compatibile bici da corsa, MTB e moto.",
+    "emoji": "🔧",
+    "priceLabel": "€30–60",
+    "priceMin": 30,
+    "priceMax": 60,
+    "amazonQuery": "kit manutenzione bici moto pulizia multitool professionale",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello"
+    ],
+    "eta": [
+      "giovane",
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "sport",
+      "tech"
+    ],
+    "occasioni": [
+      "festa_papa",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "pensione-003",
+    "name": "Abbonamento musei annuale",
+    "description": "Card annuale con accesso illimitato a musei, mostre e siti culturali. Il regalo perfetto per chi ha finalmente tempo libero.",
+    "emoji": "🏛️",
+    "priceLabel": "€30–70",
+    "priceMin": 30,
+    "priceMax": 70,
+    "amazonQuery": "abbonamento musei annuale card cultura arte mostre",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "arte",
+      "lettura",
+      "viaggi"
+    ],
+    "occasioni": [
+      "pensione",
+      "compleanno",
+      "natale",
+      "altro"
+    ]
+  },
+  {
+    "id": "pensione-004",
+    "name": "Corso cucina con chef professionista",
+    "description": "Gift card per corso di cucina con chef: pasta fresca, risotto, dolci tradizionali. In piccoli gruppi con degustazione finale.",
+    "emoji": "👨‍🍳",
+    "priceLabel": "€60–120",
+    "priceMin": 60,
+    "priceMax": 120,
+    "provider": "smartbox",
+    "amazonQuery": "corso cucina chef stellato gift card esperienza gastronomica",
+    "relazioni": [
+      "partner",
+      "amico",
+      "genitore",
+      "figlio",
+      "nonno",
+      "fratello",
+      "collega"
+    ],
+    "eta": [
+      "adulto",
+      "senior"
+    ],
+    "interessi": [
+      "cucina",
       "viaggi"
     ],
     "occasioni": [
